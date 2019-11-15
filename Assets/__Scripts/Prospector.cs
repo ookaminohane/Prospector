@@ -24,16 +24,6 @@ public class Prospector : MonoBehaviour
     public Text gameOverText, roundResultText, highScoreText;
 
 
-   
-
-
-
-
-
-
-
-
-
              [Header("Set Dynamically")]
     public Deck deck;
     public Layout layout;
